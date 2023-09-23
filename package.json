@@ -1,0 +1,26 @@
+{
+  "author": "Oleksii Duhnist",
+  "license": "ISC",
+  "private": "true",
+  "description": "Strict Followed FullStack Architecture (es-ef-ef-ay)",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sffa-dev/sffa.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sffa-dev/sffa/issues"
+  },
+  "homepage": "https://github.com/sffa-dev/sffa#readme",
+  "keywords": [
+    "architecture",
+    "stack",
+    "typescript",
+    "bun"
+  ]
+}

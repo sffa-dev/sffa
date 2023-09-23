@@ -1,0 +1,28 @@
+{
+  "name": "@sffa/core",
+  "version": "0.0.1",
+  "author": "Oleksii Duhnist",
+  "license": "ISC",
+  "description": "SFFA Command Line Tool",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sffa-dev/sffa.git",
+    "directory": "packages/core"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "bugs": {
+    "url": "https://github.com/sffa-dev/sffa/issues"
+  },
+  "homepage": "https://github.com/sffa-dev/sffa#readme",
+  "keywords": [
+    "architecture",
+    "stack",
+    "typescript",
+    "bun"
+  ]
+}
